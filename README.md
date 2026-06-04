@@ -73,7 +73,7 @@ Each section contains easy-to-understand explanations and practical examples so 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kala-techies/sdlc-beginners-guide.git
+   git clone https://github.com/ksrividya2022/sdlc-beginners-guide.git
    ```
 2. Open the `phase/` folder to read about each SDLC stage.
 3. Open the `models/` folder to explore different development approaches.
@@ -93,7 +93,7 @@ Contributions are welcome! If you have better explanations, additional examples,
 ## Questions or Feedback?
 
 If you have questions or suggestions, feel free to reach out:
-📧 Email: [connectwithkala18@gmail.com](mailto:connectwithkala18@gmail.com)
+📧 Email: [connectwithvidyasriy77@gmail.com](mailto:connectwithvidyasriy77@gmail.com)
 
 ## Happy learning!
 
