@@ -12,7 +12,7 @@ We welcome contributions from everyone, whether it's fixing a typo, adding new c
 
 ### 1. Reporting Issues
 If you find any bugs, typos, or have suggestions for improvements:
-- **Open an Issue**: [Create a new issue](https://github.com/kala-techies/sdlc-beginners-guide/issues).
+- **Open an Issue**: [Create a new issue](https://github.com/ksrividya2022/sdlc-beginners-guide/issues).
 - Please ensure your issue hasn’t been reported already.
 
 ### 2. Submitting Pull Requests
@@ -60,7 +60,7 @@ We expect all contributors to be respectful and supportive. By contributing, you
 
 ## 📬 Questions or Feedback?
 If you have any questions, feel free to reach out to the project maintainer:  
-📧 Email: [connectwithkala18@gmail.com](mailto:connectwithkala18@gmail.com)
+📧 Email: [connectwithvidyasriy77@gmail.com](mailto:connectwithvidyasriy77@gmail.com)
 
 ---
 
